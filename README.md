@@ -15,15 +15,18 @@ A Minecraft IP dectection tool that allows the server operators to check the pla
 To simply check a user's IP address:
 
 ```bash
-  /ip [USERNAME]
+  /ip USERNAME
 ```
 
 To check a user's IP address and their GeoIP location:
 
 ```bash
- /ipcheckur [USERNAME]
+ /ip geoip USERNAME
 ```
 
+## Extra Informatons
+
+The plugin will automatically download and use MaxMind's GeoIP Database onto your minecraft server at first boot, longer load time is expected.
 
 ## Authors
 
