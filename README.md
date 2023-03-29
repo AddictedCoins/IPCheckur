@@ -1,6 +1,6 @@
 # IPCheckur
 
-A Minecraft IP detection tool that allows server operators to check players' IP addresses and their corresponding GeoIP locations.
+A Minecraft IP detection tool that allows server operators to check players' IP addresses and their corresponding GeoIP locations using MaxMind's GeoIP Database.
 
 ## Table of Contents
 
