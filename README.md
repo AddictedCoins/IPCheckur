@@ -24,9 +24,6 @@ To check a user's IP address and their GeoIP location:
  /ip geoip USERNAME
 ```
 
-## Extra Informatons
-
-The plugin will automatically download and use MaxMind's GeoIP Database onto your minecraft server at first boot, longer load time is expected.
 
 ## Authors
 
