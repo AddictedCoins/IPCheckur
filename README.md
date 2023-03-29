@@ -1,6 +1,6 @@
 # IPCheckur
 
-#emsp IPCheckur is a powerful and user-friendly Minecraft server plugin designed to help server operators easily identify players' IP addresses and their associated GeoIP locations. Leveraging the highly accurate MaxMind's GeoIP Database, this plugin enables admins to monitor and manage their server's player base more effectively. With IPCheckur, server operators can gain valuable insights into their players' geographic distribution, enhancing server security and facilitating better decision-making for region-specific events and configurations.
+&emsp; IPCheckur is a powerful and user-friendly Minecraft server plugin designed to help server operators easily identify players' IP addresses and their associated GeoIP locations. Leveraging the highly accurate MaxMind's GeoIP Database, this plugin enables admins to monitor and manage their server's player base more effectively. With IPCheckur, server operators can gain valuable insights into their players' geographic distribution, enhancing server security and facilitating better decision-making for region-specific events and configurations.
 
 
 ## Table of Contents
