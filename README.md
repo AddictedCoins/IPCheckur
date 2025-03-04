@@ -36,10 +36,3 @@ To check a user's IP address and their GeoIP location:
  /ip geoip USERNAME
 ```
 
-
-## Authors
-
-- [@AddictedCoins](https://github.com/AddictedCoins)
-
-- [@Jianjianai](https://github.com/jianjianai)
-
