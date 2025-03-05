@@ -8,7 +8,6 @@
 1. [Acknowledgements](#acknowledgements)
 2. [Features](#features)
 3. [Usage](#usage)
-4. [Authors](#authors)
 
 ## Acknowledgements
 
@@ -33,6 +32,6 @@ To simply check a user's IP address:
 To check a user's IP address and their GeoIP location:
 
 ```bash
- /ip geoip USERNAME
+ /geoip USERNAME
 ```
 
