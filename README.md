@@ -26,12 +26,12 @@
 To simply check a user's IP address:
 
 ```bash
-  /ip USERNAME
+/ip USERNAME
 ```
 
 To check a user's IP address and their GeoIP location:
 
 ```bash
- /geoip USERNAME
+/geoip USERNAME
 ```
 
