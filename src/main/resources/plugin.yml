@@ -1,4 +1,0 @@
-name: IPcheckur
-version: '${version}'
-main: jja8.iplog.IPcheckur
-api-version: 1.13
