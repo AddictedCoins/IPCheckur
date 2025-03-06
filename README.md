@@ -12,7 +12,7 @@
 ## Acknowledgements
 
 - [MIT License](https://github.com/AddictedCoins/IPCheckur/blob/main/LICENSE)
-- [MaxMind GeoIP](https://www.maxmind.com/en/geoip2-services-and-databases)
+- [IP API](https://ipapi.com/documentation)
 
 ## Features
 
