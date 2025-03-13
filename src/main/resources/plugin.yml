@@ -1,0 +1,18 @@
+name: IPCheckur
+version: '1.0'
+main: sxla.IPCheckur.Main
+api-version: '1.21'
+authors: [X_ni_dada]
+description: User IP Info Lookup
+commands:
+  ip:
+    usage: /ip <ID>
+    permission: getipregion.use
+  geoip:
+    usage: /geoip <ID>
+    permission: getipregion.geo
+permissions:
+  getipregion.use:
+    default: op
+  getipregion.geo:
+    default: op
